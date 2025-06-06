@@ -1,0 +1,8 @@
+hcloud_token = "your-hetzner-api-token-here"
+custom_snapshot_id = "your-snapshot-id-here"
+ssh_public_key_path = "~/.ssh/id_rsa.pub"
+control_plane_count = 3
+worker_node_count = 3
+control_plane_server_type = "cx31"
+worker_server_type = "cx31"
+location = "nbg1"
